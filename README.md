@@ -4,6 +4,7 @@ I am a success-driven iOS mobile developer with 2 years of experience, I special
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-canto)
+
 Portfolio: https://www.javier-canto.com
 
 # 💻 Tech Stack:
