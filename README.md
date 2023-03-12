@@ -5,9 +5,9 @@ I am a success-driven iOS mobile developer with 2 years of experience, I special
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-canto)
 
-[Portfolio]([https://github.com/JavierCantoH](https://www.javier-canto.com))
+[Portfolio](https://github.com/JavierCantoH](https://www.javier-canto.com)
 
-[Resume]([https://github.com/JavierCantoH](https://docs.google.com/document/d/13-bcziJpy_T9BimkR1ndw_-YjpKJBi2I/edit?usp=share_link&ouid=114607217329918448808&rtpof=true&sd=true))
+[Resume](https://github.com/JavierCantoH](https://docs.google.com/document/d/13-bcziJpy_T9BimkR1ndw_-YjpKJBi2I/edit?usp=share_link&ouid=114607217329918448808&rtpof=true&sd=true)
 
 
 # 💻 Tech Stack:
