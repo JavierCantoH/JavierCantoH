@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a success-driven iOS mobile developer with 2 years of experience, I specialize in building high-performance apps that are scalable and testable. I have a proven track record of refactoring modules from scratch to ensure optimal functionality. My expertise in Swift enables me to build and evolve mobile apps through the entire app life cycle.
+I am a success-driven iOS mobile engineer with 2 years of experience, I specialize in building high-performance apps that are scalable and testable. I have a proven track record of refactoring modules from scratch to ensure optimal functionality. My expertise in Swift enables me to build and evolve mobile apps through the entire app life cycle.
 
 
 ## 🌐 Socials:
